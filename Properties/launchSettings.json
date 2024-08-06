@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleMultiThreadDownloander": {
+      "commandName": "Project",
+      "commandLineArgs": "-urls \"https://psv4.userapi.com/c237331/u676305657/docs/d21/e3f545b85a70/2022-04-05_20_51_46.png\" -dir C:\\Users\\Lenovo\\source\\repos\\SimpleMultiThreadDownloander\\bin\\Debug\\net8.0 -threads 1"
+    }
+  }
+}
